@@ -2,7 +2,6 @@ import numpy as np
 import torch, gc
 from torch.utils.data import Dataset
 
-
 class KgDataset(Dataset):
     def __init__(self, head, tail, label, neg_sample_k, head_neg, tail_neg):
         super(KgDataset, self).__init__()
