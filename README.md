@@ -24,7 +24,7 @@
 > ### Implicit Feedback
 > ### 1. Matrix Factorization
 > #### - OCCF ( http://yifanhu.net/PUB/cf.pdf )
-> #### - BPR ( https://arxiv.org/pdf/1205.2618.pdf )
+> #### - [BPR](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/BPR) ( https://arxiv.org/pdf/1205.2618.pdf )
 > ### 2. Metric Learning
 > #### - CML ( http://www.cs.cornell.edu/~ylongqi/paper/HsiehYCLBE17.pdf )
 > ### 3. Neural Network
