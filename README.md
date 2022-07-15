@@ -1,8 +1,8 @@
 # GNN and Recommendation_System
 
 ## KAIST DSAIL Summer Intern Program ( 2022.07 - 2022.08 )
-### Random Walk
-#### : DeepWalk, Node2vec, LINE, metapath2vec
+> Random Walk
+>> : DeepWalk, Node2vec, LINE, metapath2vec
 ### Graph Neural Netwark
 ### 1. Supervised
 #### : GCN, GAT
