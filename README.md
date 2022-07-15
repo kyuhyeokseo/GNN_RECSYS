@@ -7,6 +7,7 @@
 > #### - LINE ( https://arxiv.org/pdf/1503.03578.pdf )
 > #### - metapath2vec ( https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf )
 
+
 > ### Graph Neural Netwark
 > ### 1. Supervised
 > #### - GCN ( https://openreview.net/pdf?id=SJU4ayYgl )
@@ -18,12 +19,15 @@
 > #### - GraphSAGE ( https://arxiv.org/pdf/1706.02216.pdf )
 > #### - AFGRL ( https://arxiv.org/abs/2112.02472 )
 
+
 > ### Knowledge Graph Embedding
 > #### - [TransE](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/TransE) ( https://papers.nips.cc/paper/2013/file/1cecc7a77928ca8133fa24680a88d2f9-Paper.pdf )
+
 
 > ### Explicit feedback
 > #### - [Netflix](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/Netflix) ( https://dl.acm.org/doi/pdf/10.1145/1401890.1401944 , https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf )
 > #### - PMF ( https://papers.nips.cc/paper/2007/file/d7322ed717dedf1eb4e6e52a37ea7bcd-Paper.pdf )
+
 
 > ### Implicit Feedback
 > ### 1. Matrix Factorization
@@ -34,9 +38,11 @@
 > ### 3. Neural Network
 > #### - [NCF](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/NCF) ( https://arxiv.org/pdf/1708.05031.pdf )
 
+
 > ### Side Information
 > #### - SoRec ( http://web.cs.ucla.edu/~yzsun/classes/2014Spring_CS7280/Papers/Recommendation/paper_cikm08_sorec_hao.pdf )
 > #### - SoReg ( https://dennyzhou.github.io/papers/RSR.pdf )
+
 
 > ### Deep Learning based Recommender System
 > #### - CDL ( http://www.wanghao.in/paper/KDD15_CDL.pdf )
