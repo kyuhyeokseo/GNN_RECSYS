@@ -10,7 +10,7 @@
 
 ### Graph Neural Netwark
 > ### 1. Supervised
-> #### - GCN ( https://openreview.net/pdf?id=SJU4ayYgl )
+> #### - [GCN](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/GCN) ( https://openreview.net/pdf?id=SJU4ayYgl )
 > #### - GAT ( https://arxiv.org/pdf/1710.10903.pdf )
 > ### 2. Unsupervised
 > #### - DGI ( https://arxiv.org/abs/1809.10341 )
