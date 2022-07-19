@@ -1,6 +1,4 @@
-# PAPER
-
-> ### Wide & Deep Learning for Recommender Systems
+# PAPER : ### Wide & Deep Learning for Recommender Systems
 
 ### Description
 
