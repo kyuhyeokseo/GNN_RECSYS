@@ -1,6 +1,6 @@
 # GNN and Recommendation_System
 
-## KAIST DSAIL Summer Intern Program ( 2022.07 - 2022.08 )
+## KAIST DSAIL Summer Intern Program ( 2022.06 - 2022.08 )
 ### Random Walk 
 > #### - DeepWalk ( https://arxiv.org/pdf/1403.6652.pdf )
 > #### - Node2vec ( https://arxiv.org/pdf/1607.00653.pdf )
