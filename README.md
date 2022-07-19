@@ -49,4 +49,5 @@
 > #### - ConvMF ( http://uclab.khu.ac.kr/resources/publication/C_351.pdf )
 > #### - Autorec ( http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf )
 > #### - YouTube ( https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf )
-> #### - [Wide&Deep-FM](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/FM) ( https://arxiv.org/abs/1606.07792 , https://ieeexplore.ieee.org/document/5694074 )
+> #### - [Wide & Deep](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/Wide_Deep) ( http://users.cecs.anu.edu.au/~u5098633/papers/www15.pdf )
+> #### - [FM](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/FM) ( https://arxiv.org/abs/1606.07792 , https://ieeexplore.ieee.org/document/5694074 )
