@@ -6,6 +6,7 @@
 * data.py  : Load data, Create Dataset
 * model.py : metapath2vec Model
 * main.py : Main code
+* utils.py : about graph preprocessing function
 
 ### How to run this python 
 ```
