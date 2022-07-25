@@ -6,7 +6,7 @@
 
 ### Graph Neural Netwark
 * Supervised : [GCN](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/GCN), GAT
-* Unsupervised : DGI, GVAE, VAE, GraphSAGE, AFGRL
+* Unsupervised : [DGI](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/DGI), GVAE, VAE, GraphSAGE, AFGRL
 
 ### Knowledge Graph Embedding
 * [TransE](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/TransE)
