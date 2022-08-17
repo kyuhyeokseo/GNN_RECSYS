@@ -12,7 +12,7 @@
 * [TransE](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/TransE)
 
 ### Explicit feedback
-* [Netflix](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/Netflix), PMF
+* [Netflix](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/Netflix), [PMF](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/PMF)
 
 ### Implicit Feedback
 * Matrix Factorization : [OCCF](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/OCCF), [BPR](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/BPR)
