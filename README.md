@@ -5,7 +5,7 @@
 * [DeepWalk](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/DeepWalk), [Node2vec](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/Node2vec), LINE, [metapath2vec](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/metapath2vec)
 
 ### Graph Neural Netwark
-* Supervised : [GCN](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/GCN), GAT
+* Supervised : [GCN](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/GCN), [GAT](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/GAT)
 * Unsupervised : [DGI](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/DGI), [VGAE](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/VGAE), [VAE](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/VAE), [GraphSAGE](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/GraphSAGE), AFGRL
 
 ### Knowledge Graph Embedding
