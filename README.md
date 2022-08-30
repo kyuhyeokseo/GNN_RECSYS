@@ -2,7 +2,7 @@
 
 ## KAIST DSAIL Summer Intern Program ( 2022.06 - 2022.08 )
 ### Random Walk 
-* [DeepWalk](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/DeepWalk), [Node2vec](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/Node2vec), LINE, [metapath2vec](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/metapath2vec)
+* [DeepWalk](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/DeepWalk), [Node2vec](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/Node2vec), [LINE](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/LINE), [metapath2vec](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/metapath2vec)
 
 ### Graph Neural Network
 * Supervised : [GCN](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/GCN), [GAT](https://github.com/kyuhyeokGithub/GNN_RecSys/tree/main/GAT)
